@@ -1,0 +1,12 @@
+body{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+section{
+    background-color: crimson;
+    height: 50px;
+    width: 50px;
+
+}
